@@ -1,9 +1,7 @@
 # ShopSale_dashboard_using_PowerBI
 
-# Pizza_sales_analysis_using_SQL_POwerBI  
 
-
-## Pizza Sales Analysis Using MYSQL And Power BI portfolio projects.
+## Product sales analysis for a local shop which is selling its products online.
 
 ## Software Used : Power BI for visuliazation
 
